@@ -1,0 +1,1 @@
+{"type":"record","name":"Booking","fields":[{"name":"id","type":"string"},{"name":"amount_cents","type":"long"},{"name":"currency","type":"string"}]}
